@@ -86,7 +86,7 @@ I'm always interested in connecting with developers, learning from others, discu
 
 ---
 
-*Learning continuously. Building consistently. Improving every day.*## Hi there 👋
+*Learning continuously. Building consistently. Improving every day.
 
 <!--
 **ShantnuRaj/ShantnuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
