@@ -32,13 +32,13 @@ Python · C++ · C
 
 FastAPI · REST APIs · HTTP · Requests
 
-**Frontend Development**
+**Frontend Development** (Upcoming Learning Goals)
 
 HTML · CSS · JavaScript
 
 **AI & Machine Learning**
 
-Machine Learning · Gemini API · LLMs · RAG · AI Agents
+Machine Learning · Gemini API · LLMs · RAG · AI Agents (Upcoming Learning Goals)
 
 **Tools & Platforms**
 
@@ -62,9 +62,7 @@ Git · GitHub · VS Code · Google Colab · Firebase
 - Advanced Python and software development practices.
 - Data Structures and Algorithms.
 - FastAPI and backend development.
-- Database management and SQL.
 - Frontend development.
-- Machine Learning and AI application development.
 
 ---
 
